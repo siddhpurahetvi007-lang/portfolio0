@@ -1,46 +1,73 @@
-# Personal Portfolio Website
+# 🌐 Personal Portfolio Website
 
-A modern, interactive developer portfolio showcasing my work, skills, and design approach.
+A modern personal portfolio website designed to showcase my projects, technical skills, and learning journey as a Computer Science student and aspiring Software Engineer.
 
-## 🚀 Overview
-This portfolio is designed to reflect both my technical skills and design thinking.  
-It features smooth UI, structured sections, and a clean modern aesthetic inspired by high-end web experiences.
+This portfolio serves as a central hub to highlight my work, achievements, and ongoing growth in web development and software engineering.
 
-## ✨ Features
-- Modern UI with bold typography and gradients
-- Interactive sections (skills, projects, testimonials)
-- Smooth layout transitions and visual hierarchy
-- Custom-designed components (cards, buttons, sections)
-- Fully structured multi-section landing page
+---
 
-## 🛠 Tech Stack
-- HTML5  
-- CSS3  
-- JavaScript (for interactions)
+## 🚀 Features
 
-## 📸 Sections Included
-- Hero Section (branding + CTA)
-- About Section
-- Skills Showcase
-- Portfolio Projects (Apple Clone, TCS Clone)
-- Testimonials
-- Work Process
+- Modern and professional user interface
+- Responsive design for multiple screen sizes
+- Dedicated About Me section
+- Technical skills showcase
+- Project portfolio section
+- Contact information section
+- Smooth navigation experience
+- Clean and organized layout
+- Professional personal branding
+- Interactive and visually appealing design
 
-## 🧠 What I Focused On
-- Creating a **strong visual identity**
-- Clean spacing and layout structure
-- Component-based thinking without frameworks
-- Balancing **design + development**
+---
 
-## 🔗 Live Demo
-https://brijeshghori.github.io/portfolio/
+## 🛠️ Technologies Used
 
-## 🎯 Future Improvements
-- Add full responsiveness (mobile-first)
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 🎯 Purpose
+
+The purpose of this project is to establish a professional online presence and provide a platform to showcase my projects, technical skills, and learning journey.
+
+The portfolio demonstrates my frontend development abilities and serves as a central place for recruiters, clients, and fellow developers to learn more about my work.
+
+---
+
+## 📚 What I Learned
+
+- Structuring modern websites with HTML
+- Styling responsive layouts using CSS
+- Creating visually appealing user interfaces
+- Organizing and presenting projects professionally
+- Improving user experience through design
+- Working with modern frontend development practices
+
+---
+
+## 🔮 Future Improvements
+
+- Add dark/light mode toggle
 - Improve animations and transitions
-- Convert into React-based portfolio
-- Add CMS/blog integration
+- Add project filtering functionality
+- Integrate a working contact form
+- Enhance accessibility features
+- Rebuild using React for better scalability
 
-## 📌 Note
-This is a personal portfolio project built to showcase my skills and projects.
-Everything written on the site is not true
+---
+
+
+## 👨‍💻 Author
+
+**Hetvi Siddhpura**
+
+B.Tech Computer Science Engineering Student
+
+Aspiring Software Engineer
+
+---
+
+⭐ If you found this project interesting, consider giving it a star!
